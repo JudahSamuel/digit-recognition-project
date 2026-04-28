@@ -1,8 +1,8 @@
-\# 🧠 Advanced Handwritten Digit Recognition System
+\#  Advanced Handwritten Digit Recognition System
 
 
 
-\## 📌 Overview
+\##  Overview
 
 
 
@@ -10,7 +10,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
 
 
-\## 🚀 Features
+\##  Features
 
 
 
@@ -26,7 +26,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
 
 
-\## 🧠 Technologies Used
+\##  Technologies Used
 
 
 
@@ -42,7 +42,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
 
 
-\## 📊 Model
+\##  Model
 
 
 
@@ -52,7 +52,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
 
 
-\## ▶️ Run the Project
+\##  Run the Project
 
 
 
@@ -66,7 +66,7 @@ streamlit run app.py
 
 
 
-\## ⚠️ Note
+\##  Note
 
 
 
