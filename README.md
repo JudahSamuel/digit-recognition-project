@@ -72,7 +72,7 @@ streamlit run app.py
 
 \* Only single digit (0–9) supported
 
-\* Multiple digits may give incorrect results
+\* Multiple digits may give incorrect results.
 
 
 
